@@ -4,6 +4,7 @@
 
 # DEPRECATED DEPRECATED
 
-please use [the new package](www.npmjs.com/package/tradejs)
+please use 
+www.npmjs.com/package/tradejs
 
  
